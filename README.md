@@ -1,4 +1,4 @@
- I’m interested in web technologies
+Hey, I'm Sandeep Kumar Patel student at Kirodimal Institue of Technology, Raigarh. I have deep interest in Web Technologies.
 
 - 📫 abhisandy47@gmail.com 
 
