@@ -8,3 +8,6 @@ Hey, I'm Sandeep Kumar Patel student at Kirodimal Institue of Technology, Raigar
 
 - [Linkedin](https://www.linkedin.com/in/sandeep-kumar-patel47/)
 
+- [Dev](https://dev.to/sandyabhi)
+
+- [Portfolio](https://abhisandeep.netlify.app/) : (still in development)
