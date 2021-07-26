@@ -4,6 +4,8 @@ Hey, I'm Sandeep Kumar Patel student at Kirodimal Institue of Technology, Raigar
 
 - [Wikimedia Phabricator](https://phabricator.wikimedia.org/p/Sandyabhi/) : (Bug reporting platform of Wikimedia)
 
+- [Wikimedia Gerrit](https://gerrit.wikimedia.org/r/q/owner:abhisandy47%2540gmail.com) : (Code Review platorm of Wikimedia)
+
 - [Linkedin](https://www.linkedin.com/in/sandeep-kumar-patel47/)
 
 - [Dev.to](https://dev.to/sandyabhi)
