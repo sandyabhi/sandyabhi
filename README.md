@@ -2,7 +2,7 @@ Hey, I'm Sandeep Kumar Patel student at Kirodimal Institue of Technology, Raigar
 
 - 📫 abhisandy47@gmail.com 
 
-- [Portfolio]https://sandeeppatel.netlify.app)
+- [Portfolio](https://sandeeppatel.netlify.app)
 
 - [Linkedin](https://www.linkedin.com/in/sandeep-kumar-patel47/)
 
