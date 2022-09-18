@@ -10,6 +10,8 @@ Hey, I'm Sandeep Kumar Patel student at Kirodimal Institue of Technology, Raigar
 
 - [Dev.to](https://dev.to/sandyabhi)
 
+- [LearnWeb3 DAO](https://learnweb3.io/profiles/sandeep)
+
 - [Wikimedia Phabricator](https://phabricator.wikimedia.org/p/Sandyabhi/) : (Bug reporting platform of Wikimedia)
 
 - [Wikimedia Gerrit](https://gerrit.wikimedia.org/r/q/owner:abhisandy47%2540gmail.com) : (Code Review platorm of Wikimedia)
