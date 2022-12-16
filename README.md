@@ -8,9 +8,13 @@ Hey, I'm Sandeep Kumar Patel student at Kirodimal Institue of Technology, Raigar
 
 - [Leetcode](https://leetcode.com/abhisandy47/)
 
-- [Dev.to](https://dev.to/sandyabhi)
-
 - [LearnWeb3 DAO](https://learnweb3.io/profiles/sandeep)
+
+- [DevFolio](https://devfolio.co/@sandyabhi)
+
+- [DevPost](https://devpost.com/abhisandy47?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
+
+- [Dev.to](https://dev.to/sandyabhi)
 
 - [GeeksForGeeks](https://auth.geeksforgeeks.org/user/abhisandy47)
 
