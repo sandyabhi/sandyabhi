@@ -1,4 +1,6 @@
-Hey, I'm Sandeep Kumar Patel student at Kirodimal Institue of Technology, Raigarh. I have deep interest in Web Technologies.
+Hello
+
+I'm Sandeep Kumar Patel student at Kirodimal Institute of Technology, Raigarh. I have a deep interest in Web Technologies.
 
 - 📫 abhisandy47@gmail.com 
 
@@ -8,7 +10,7 @@ Hey, I'm Sandeep Kumar Patel student at Kirodimal Institue of Technology, Raigar
 
 - [Leetcode](https://leetcode.com/abhisandy47/)
 
-- [LearnWeb3 DAO](https://learnweb3.io/profiles/sandeep)
+- [LearnWeb3 DAO](https://learnweb3.io/u/sandeep/)
 
 - [DevFolio](https://devfolio.co/@sandyabhi)
 
@@ -20,4 +22,4 @@ Hey, I'm Sandeep Kumar Patel student at Kirodimal Institue of Technology, Raigar
 
 - [Wikimedia Phabricator](https://phabricator.wikimedia.org/p/Sandyabhi/) : (Bug reporting platform of Wikimedia)
 
-- [Wikimedia Gerrit](https://gerrit.wikimedia.org/r/q/owner:abhisandy47%2540gmail.com) : (Code Review platorm of Wikimedia)
+- [Wikimedia Gerrit](https://gerrit.wikimedia.org/r/q/owner:abhisandy47%2540gmail.com) : (Code Review platform of Wikimedia)
