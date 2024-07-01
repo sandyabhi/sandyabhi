@@ -2,6 +2,8 @@ Hello
 
 I'm Sandeep Kumar Patel student at Kirodimal Institute of Technology, Raigarh. I have a deep interest in Web Technologies.
 
+- 📫 sandeeppatell2002@gmail.com
+
 - 📫 abhisandy47@gmail.com 
 
 - [Portfolio](https://sandeeppatel.netlify.app)
