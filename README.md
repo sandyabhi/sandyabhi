@@ -1,6 +1,6 @@
 Hello
 
-I'm Sandeep Kumar Patel student at Kirodimal Institute of Technology, Raigarh. I have a deep interest in Web Technologies.
+I am Sandeep Kumar Patel, 2024 Btech CSE pass out. Fullstack Web Developer (React/NextJS, NodeJS) | DevOps(Docker, Jenkins, Kubernetes)
 
 - 📫 sandeeppatell2002@gmail.com
 
