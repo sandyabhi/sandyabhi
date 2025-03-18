@@ -1,6 +1,6 @@
 Hello
 
-I am Sandeep Kumar Patel, 2024 Btech CSE pass out. Fullstack Web Developer (React/NextJS, NodeJS) | DevOps(Docker, Jenkins, Kubernetes)
+I am Sandeep Kumar Patel, 2024 Btech CSE graduate. Fullstack Web Developer (React/NextJS, NodeJS) 
 
 - 📫 sandeeppatell2002@gmail.com
 
