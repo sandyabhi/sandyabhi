@@ -6,7 +6,6 @@ I am Sandeep Kumar Patel, 2024 Btech CSE graduate. Fullstack Web Developer (Reac
 
 - 📫 abhisandy47@gmail.com 
 
-- [Portfolio](https://sandeeppatel.netlify.app)
 
 - [Linkedin](https://www.linkedin.com/in/sandeep-kumar-patel47/)
 
